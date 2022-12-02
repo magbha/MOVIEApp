@@ -1,0 +1,13 @@
+.card-section {
+    background-color: lightseagreen;
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+
+}
+
+.moviecard {
+    width: 80%;
+    background-color: black;
+    color: brown;
+}
